@@ -1,0 +1,16 @@
+{
+  "name": "get-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getPdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "getpdf": "node getPdf.js"
+  },
+  "keywords": [],
+  "author": "Neo's",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0"
+  }
+}
