@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Neo's",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "figlet": "^1.6.0"
   }
